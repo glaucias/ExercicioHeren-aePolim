@@ -1,0 +1,14 @@
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\bin\Debug\netcoreapp3.1\HeranPolimEx1.exe
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\bin\Debug\netcoreapp3.1\HeranPolimEx1.deps.json
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\bin\Debug\netcoreapp3.1\HeranPolimEx1.runtimeconfig.json
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\bin\Debug\netcoreapp3.1\HeranPolimEx1.runtimeconfig.dev.json
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\bin\Debug\netcoreapp3.1\HeranPolimEx1.dll
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\bin\Debug\netcoreapp3.1\HeranPolimEx1.pdb
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.csproj.AssemblyReference.cache
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.AssemblyInfoInputs.cache
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.AssemblyInfo.cs
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.csproj.CoreCompileInputs.cache
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.dll
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.pdb
+C:\Users\glauc\source\repos\HeranPolimEx1\HeranPolimEx1\obj\Debug\netcoreapp3.1\HeranPolimEx1.genruntimeconfig.cache
